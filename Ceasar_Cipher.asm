@@ -1,3 +1,5 @@
+; Encrypts the User input with the desired key 
+
 INCLUDE Irvine32.inc
 
 BUFMAX = 128 ; maximum buffer size
