@@ -31,6 +31,5 @@ mainPROC
     mov someData, al
     mov someOtherData, bl
   INVOKE ExitProcess, 0; EXIT
-main
-ENDP
+main ENDP
 END main
