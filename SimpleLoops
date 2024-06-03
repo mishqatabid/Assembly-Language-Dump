@@ -20,6 +20,5 @@ main PROC
   mov someData, al
 
   INVOKE ExitProcess, someData
-main
-ENDP END
-main
+main ENDP 
+END main
