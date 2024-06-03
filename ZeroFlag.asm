@@ -18,4 +18,4 @@ main PROC
      inc ax
 INVOKE ExitProcess, 0
 main ENDP
-END mai
+END main
