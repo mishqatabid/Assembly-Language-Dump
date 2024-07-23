@@ -59,8 +59,7 @@ Here is a step by step method to set up `Irvine32` Library.
 
 **STEP 7:** In properties move to the `Linker > Additional Library` Dependencies and then paste your copied file path there.
 
-![Screenshot 2024-07-23 222542](https://github.com/user-attachments/assets/b743a6ac-4352-467e-9afb-fff555b46c43)
-
+![image4](https://github.com/user-attachments/assets/e066f23c-e01c-429c-9b0d-990a2c674791)
 
 **STEP 8:** Now click on the `Input` tab. In the Additional Dependency section add `irvine32.lib`.
 
@@ -68,7 +67,8 @@ Here is a step by step method to set up `Irvine32` Library.
 
 **STEP 9:** Now in the `Microsoft Macro Assembly > Include Paths` enter the file path again.
 
-![image1](images/Untitled6.png)
+![Screenshot 2024-07-23 222542](https://github.com/user-attachments/assets/b743a6ac-4352-467e-9afb-fff555b46c43)
+
 
 **STEP 10:** Verification
 
