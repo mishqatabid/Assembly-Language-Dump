@@ -59,8 +59,6 @@ Here is a step by step method to set up `Irvine32` Library.
 
 **STEP 7:** In properties move to the `Linker > Additional Library` Dependencies and then paste your copied file path there.
 
-![image4](https://github.com/user-attachments/assets/e066f23c-e01c-429c-9b0d-990a2c674791)
-
 **STEP 8:** Now click on the `Input` tab. In the Additional Dependency section add `irvine32.lib`.
 
 ![Untitled5](https://github.com/user-attachments/assets/a977fcc2-923a-4b25-a5e4-52b93327da64)
