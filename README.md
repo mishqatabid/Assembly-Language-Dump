@@ -27,7 +27,7 @@
 ![image5](https://github.com/user-attachments/assets/df6a79cd-c170-4b07-85b9-c8e046288bc0)
 
 
-**STEP 8:** After this you'll have your code editor ready.
+**STEP 8:** After this you'll have your code editor ready
 
 ![image6](https://github.com/user-attachments/assets/b3b2a4be-07de-4476-93a0-39ea190113bb)
 
